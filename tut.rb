@@ -25,6 +25,8 @@ class Tut
   end
 end
 
+puts "tuuut"
+
 puts
 puts 'Tut.new("amqp://localhost")'
 Tut.new("amqp://localhost")
